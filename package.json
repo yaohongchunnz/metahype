@@ -1,0 +1,14 @@
+{
+  "name": "metahype",
+  "version": "1.0.0",
+  "description": "discover content that is currently most hyped on the internet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hype"
+  ],
+  "author": "Yao Hong Chun",
+  "license": "ISC"
+}
